@@ -30,18 +30,17 @@ Someday they'll look great :
 
 Here are a few of my recent projects:
 
-*I'll do this part later
-### 1. **Project Name**
-   - **Description**: Brief description of the project.
-   - **Tech Stack**: [Languages, frameworks, tools used]
-   - **Link**: [Link to the project or its demo]
-   - **Status**: [Ongoing, Completed, etc.]
+### 1. **File Downloader and Renamer**
+   - **Description**: This tkinter-based gui application allows users to mass download files from a provided URL. The file types are based on the user's selection, and the files are saved to a userdefined directory. The application also allows users to rename downloaded files based on an existing CSV file and logs any errors encountered during the process.
+   - **Tech Stack**: Python(Tkinter, beautifulsoup)
+   - **Link**: [Github](https://github.com/TarunB-Git/FileDownloader)
+   - **Status**: [Completed]
    
-### 2. **Project Name**
-   - **Description**: Brief description of the project.
-   - **Tech Stack**: [Languages, frameworks, tools used]
-   - **Link**: [Link to the project or its demo]
-   - **Status**: [Ongoing, Completed, etc.]
+### 2. **Main Site Name**
+   - **Description**: Redoing my main site, and deploying on a new domain.
+   - **Tech Stack**: Python (Flask), React.js, Mako, HTML, CSS
+   - **Link**: [Github](https://github.com/TarunB-Git/MainSIte)
+   - **Status**: [Ongoing]
    
 ---
 
