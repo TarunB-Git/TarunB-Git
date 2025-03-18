@@ -22,9 +22,8 @@ Someday they'll look great :
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunB-Git&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 **Streaks**:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunB-Git&theme=radical)
-
----
+<!---![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunB-Git&theme=radical)--->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=TarunB-Git)
 
 ## 📂 Projects
 
