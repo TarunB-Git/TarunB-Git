@@ -16,8 +16,7 @@ I'm Tarun, a passionate developer, who loves to solve problems and build useful 
 ---
 
 ##  My GitHub Stats
-
-Someday they'll look great :
+(Private Repositories aren't being considered)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunB-Git&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
