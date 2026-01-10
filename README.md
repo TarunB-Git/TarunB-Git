@@ -6,19 +6,30 @@ Welcome to my GitHub! Here, you can explore my work, projects, and contributions
 
 I'm Tarun, a passionate developer, who loves to solve problems and build useful tools. My main focus right now is on Web Development, but I've also worked on projects involving Machine Learning, Data Science, and App Development. I enjoy collaborating with others, and I'm always open to learn and work on open-source projects together.
 
-- **Top Languages**:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunB-Git&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=TarunB-Git&color=blue)
+
 
 -   **How to reach me**: [LinkedIn](https://linkedin.com/in/tarun-boddeda)
     
--   ⚡ **Fun fact**: I use the Oxford comma a lot, even when it isn't necessary.
+-   ⚡ **Fun fact**: Most of my life is spent thinking or reading. The other part is spent sleeping.
 
 ---
 
-##  My GitHub Stats
+<details>
+<summary><b>📊 GitHub Stats (Click to expand)</b></summary>
+
+<br>
+
 (Private Repositories aren't being considered)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunB-Git&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-stats-alpha.vercel.app/api?username=TarunB-Git)
+
+Alternate Github Stats: (For when the first one doesn't render)
+
+![GitHub Stats](https://stats.dooboo.io/api/github-stats?login=TarunB-Git)
+
+</details>
+
 
 **Streaks**:  
 <!---![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunB-Git&theme=radical)--->
@@ -51,5 +62,7 @@ I welcome contributions! If you have an idea to improve any of my projects or wo
 3. Commit your changes: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/YourFeatureName`
 5. Open a pull request with a description of your changes.
+
+(Or you could just hit me up from my website/linkedin)
 
 ---
