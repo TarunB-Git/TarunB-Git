@@ -4,12 +4,12 @@ Welcome to my GitHub! Here, you can explore my work, projects, and contributions
 
 ##  About Me
 
-I'm Tarun, a passionate developer, who loves to solve problems and build useful tools. My main focus right now is on Machine Learning, but I've also worked on projects involving Web Development, Data Science, and App Development. I enjoy collaborating on projects, and I'm always open to learn and work on open-source projects together.
+I'm Tarun, and I like solving problems and building useful(?) tools. My main focus right now is on Machine Learning, but I've also worked on projects involving Web Development, Data Science, and App Development. I enjoy collaborating, and I'm always open to learn and work on open-source projects together, so if you have an idea, or want to do something, hit me up!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TarunB-Git&color=blue)
 
 
--   **How to reach me**: [LinkedIn](https://linkedin.com/in/tarun-boddeda)
+-   **How to reach me**: [LinkedIn](https://linkedin.com/in/tarun-boddeda) or [Message Me](https://tarunb.pythonanywhere.com/)
     
 -   ⚡ **Fun fact**: Most of my life is spent thinking or reading. The other part is spent sleeping.
 
