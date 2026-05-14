@@ -39,10 +39,9 @@ Alternate Github Stats: (For when the first one doesn't render)
 
 Here are a few of my recent projects:
 
-### 1. **Federated Learning–Based Player
-Personalization in Real-Time Strategy
+### 1. **Federated Learning–Based Player Personalization in Real-Time Strategy
 Games**
-   - **Description**: My thesis, implemented. Will be updated once the paper is written.
+   - **Description**: My thesis, implemented. Will be updated once the paper is written. Made private till submitted.
    - **Tech Stack**: Python
    - **Link**: [Github](https://github.com/TarunB-Git/FedComparison)
    - **Status**: [Ongoing]
