@@ -39,16 +39,18 @@ Alternate Github Stats: (For when the first one doesn't render)
 
 Here are a few of my recent projects:
 
-### 1. **File Downloader and Renamer**
-   - **Description**: This tkinter-based gui application allows users to mass download files from a provided URL. The file types are based on the user's selection, and the files are saved to a userdefined directory. The application also allows users to rename downloaded files based on an existing CSV file and logs any errors encountered during the process.
-   - **Tech Stack**: Python(Tkinter, beautifulsoup)
-   - **Link**: [Github](https://github.com/TarunB-Git/FileDownloader)
-   - **Status**: [Completed]
+### 1. **Federated Learning–Based Player
+Personalization in Real-Time Strategy
+Games**
+   - **Description**: My thesis, implemented. Will be updated once the paper is written.
+   - **Tech Stack**: Python
+   - **Link**: [Github](https://github.com/TarunB-Git/FedComparison)
+   - **Status**: [Ongoing]
    
-### 2. **Main Site Name**
-   - **Description**: Redoing my main site, and deploying on a new domain.
-   - **Tech Stack**: Python (Flask), React.js, Mako, HTML, CSS
-   - **Link**: [Github](https://github.com/TarunB-Git/MainSIte)
+### 2. **JobFlow**
+   - **Description**: <img width="1898" height="588" alt="image" src="https://github.com/user-attachments/assets/254796e6-277c-49e5-808d-2d85b3a93541" />.
+   - **Tech Stack**: Python (FastAPI), React.js, SQLAlchemy, SQLite
+   - **Link**: [Github](https://github.com/TarunB-Git/JobFlow)
    - **Status**: [Ongoing]
    
 ---
