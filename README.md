@@ -4,14 +4,14 @@ Welcome to my GitHub! Here, you can explore my work, projects, and contributions
 
 ##  About Me
 
-I'm Tarun, and I like solving problems and building useful(?) tools. My main focus right now is on Machine Learning, but I've also worked on projects involving Web Development, Data Science, and App Development. I enjoy collaborating, and I'm always open to learn and work on open-source projects together, so if you have an idea, or want to do something, hit me up!
+I'm Tarun, and I like solving problems and building useful(?) tools. My main focus right now is on Research, Machine Learning and AI, but I've also worked on projects involving Web Development, Data Science, and App Development. I enjoy collaborating, and I'm always open to learn and work on open-source projects together, so if you have an idea, or want to do something, hit me up!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TarunB-Git&color=blue)
 
 
 -   **How to reach me**: [LinkedIn](https://linkedin.com/in/tarun-boddeda) or [Message Me](https://tarunb.pythonanywhere.com/)
     
--   ⚡ **Fun fact**: Most of my life is spent thinking or reading. The other part is spent sleeping.
+-   **Fun fact**: Most of my life is spent thinking or reading. The other part is spent sleeping.
 
 ---
 
@@ -39,17 +39,21 @@ Alternate Github Stats: (For when the first one doesn't render)
 
 Here are a few of my recent projects:
 
-### 1. **Federated Learning–Based Player Personalization in Real-Time Strategy
-Games**
-   - **Description**: My thesis, implemented. Will be updated once the paper is written. Made private till submitted.
-   - **Tech Stack**: Python
-   - **Link**: [Github](https://github.com/TarunB-Git/FedComparison)
-   - **Status**: [Ongoing]
+### 1. **Personalized Federated Learning for Player Action Prediction in StarCraft II**
+   - **Description**: Implementation of [my thesis](https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A2085507&dswid=-2543). Presented at IEEE GEM, 2026, published on IEEE Xplore. 
+   - **Link**: [Github](https://github.com/TarunB-Git/FederatedComparison)
+   - **Status**: [Completed]
    
 ### 2. **JobFlow**
    - **Description**: <img width="1898" height="588" alt="image" src="https://github.com/user-attachments/assets/254796e6-277c-49e5-808d-2d85b3a93541" />.
    - **Tech Stack**: Python (FastAPI), React.js, SQLAlchemy, SQLite
    - **Link**: [Github](https://github.com/TarunB-Git/JobFlow)
+   - **Status**: [Ongoing]
+
+### 3. **NoveList**
+   - **Description**: A site for searching scraped novels using semantic embeddings. Google’s AI Mode may now do some of this better (it didn't when I started building this), but the site also lets you sort your library, get recommendations based on your tastes, organize books into tier lists, and more.
+   - **Tech Stack**: Python
+   - **Link**: [Github](https://github.com/TarunB-Git/NoveList)
    - **Status**: [Ongoing]
    
 ---
@@ -64,6 +68,6 @@ I welcome contributions! If you have an idea to improve any of my projects or wo
 4. Push to the branch: `git push origin feature/YourFeatureName`
 5. Open a pull request with a description of your changes.
 
-(Or you could just hit me up from my website/linkedin)
+(Or you could just hit me up on my website/linkedin)
 
 ---
