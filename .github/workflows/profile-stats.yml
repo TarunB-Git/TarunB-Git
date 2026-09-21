@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=TarunB-Git&show_icons=true&hide_rank=true
+          options: username=TarunB-Git&layout=compact&langs_count=6&hide=html,css&exclude_repo=Miscellaneous
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
