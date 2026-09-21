@@ -15,8 +15,6 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 
 ## Selected work
 
-## Selected work
-
 | Project | What it is |
 | --- | --- |
 | [FederatedComparison](https://github.com/TarunB-Git/FederatedComparison) | First-author IEEE GEM 2026 research code for centralized and federated StarCraft II action prediction using GRU, LSTM, and Transformer models. |
@@ -24,7 +22,7 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 | [Note Classification](https://github.com/TarunB-Git/note-processing) | TF-IDF + calibrated linear SVM for classifying notes as questions, tasks, or deadlines. |
 | [Supplier Cockpit](https://github.com/TarunB-Git/Supplier-cockpit) | One-day Industrial AI hackathon prototype connecting supplier risk with financial, geopolitical, dependency, and contract signals. |
 
-## 🔨 Currently building
+## Currently building
 
 | Project | Direction |
 | --- | --- |
@@ -33,7 +31,7 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 | **SuperCal** | Private local calendar/planner controlled through natural language and voice. |
 | **JobFlow** | Job reranking, resume/cover-letter tailoring, anonymization, and application workflow tools. |
 
-## 🧪 Lab
+## Lab
 
 Smaller projects, old ideas, and things I built to figure something out.
 
@@ -58,7 +56,6 @@ Smaller projects, old ideas, and things I built to figure something out.
 [LinkedIn](https://linkedin.com/in/tarun-boddeda) · [Portfolio](https://tarunb.pythonanywhere.com/)
 
 If something here looks interesting, feel free to reach out.
-
 
 <picture>
   <source
