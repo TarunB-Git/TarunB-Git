@@ -15,69 +15,44 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 
 ## Selected work
 
-### Personalized Federated Learning for StarCraft II
+## Selected work
 
-My undergraduate thesis and IEEE GEM 2026 paper on player action prediction using centralized and federated GRU, LSTM, and Transformer models.
-
-[Repository](https://github.com/TarunB-Git/FederatedComparison)
-
-### CoachAI
-
-A computer-vision project that compares a student's movement against a reference video and provides pose-based feedback, analytics, and visual comparisons using MediaPipe and OpenCV.
-
-[Repository](https://github.com/TarunB-Git/coachai-backend)
-
-### Note Classification
-
-A lightweight NLP system for classifying free-form notes as questions, tasks, or deadlines using TF-IDF, engineered features, and a calibrated linear SVM.
-
-[Repository](https://github.com/TarunB-Git/note-processing)
-
-### Supplier Cockpit
-
-A one-day Industrial AI hackathon prototype exploring supplier-risk analysis across financial, geopolitical, dependency, and contract signals.
-
-[Repository](https://github.com/TarunB-Git/Supplier-cockpit)
+| Project | What it is |
+| --- | --- |
+| [FederatedComparison](https://github.com/TarunB-Git/FederatedComparison) | First-author IEEE GEM 2026 research code for centralized and federated StarCraft II action prediction using GRU, LSTM, and Transformer models. |
+| [CoachAI](https://github.com/TarunB-Git/coachai-backend) | MediaPipe/OpenCV pose comparison with real-time feedback, analytics, and rendered comparisons. |
+| [Note Classification](https://github.com/TarunB-Git/note-processing) | TF-IDF + calibrated linear SVM for classifying notes as questions, tasks, or deadlines. |
+| [Supplier Cockpit](https://github.com/TarunB-Git/Supplier-cockpit) | One-day Industrial AI hackathon prototype connecting supplier risk with financial, geopolitical, dependency, and contract signals. |
 
 ## 🔨 Currently building
 
-### NoveList
-
-A personal book and web-novel discovery system. The goal is to combine semantic search, recommendations, rankings, personal libraries, and tier lists. 
-
-### SuperCal
-
-A privacy-focused calendar and personal planning app built around fast natural-language and voice input. The goal is to make routines, tasks, birthdays, reminders, and everyday planning quick to add and easy to reorganize while keeping as much processing local as possible.
-
-### JobFlow
-
-A job-search workspace for collecting and reranking jobs, tailoring resumes and cover letters, anonymizing documents, and reducing the repetitive work involved in applications.
-
-### Local Expert
-
-A local document assistant that can build an understanding of a PDF, folder, document collection, or long-form work. The goal is to answer questions, trace where information came from, connect related material, generate structured references or wikis, and support spoiler-aware querying for fiction.
+| Project | Direction |
+| --- | --- |
+| **NoveList** | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
+| **Local Expert** | Local document/folder assistant with citations, cross-document links, generated wikis, and spoiler-aware fiction queries. |
+| **SuperCal** | Private local calendar/planner controlled through natural language and voice. |
+| **JobFlow** | Job reranking, resume/cover-letter tailoring, anonymization, and application workflow tools. |
 
 ## 🧪 Lab
 
-Smaller projects, experiments, old ideas, and things I built to figure something out.
+Smaller projects, old ideas, and things I built to figure something out.
 
-| Project                                                              | What I was exploring                                                                       | Status           |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------- |
-| [FileDownloader](https://github.com/TarunB-Git/FileDownloader)       | Web scraping, batch downloads, file renaming, and a small Tkinter GUI                      | Finished         |
-| [Note Classification](https://github.com/TarunB-Git/note-processing) | Lightweight text classification using TF-IDF, engineered features, and SVMs                | Finished         |
-| Android experiments                                                  | Kotlin, Android architecture, ViewModels, and mobile UI development                        | Archived         |
-| AWS Lambda Image Pipeline                                            | S3-triggered serverless image processing and CloudWatch scaling                            | Finished         |
-| Twitch Analytics Chatbot                                             | Constrained LLM query planning, DuckDB, schema validation, and dual-model comparison       | Finished         |
-| AlphaRoyale                                                          | Exploring whether an agent can learn to interact with and play Clash Royale                | Early experiment |
-| Miscellaneous                                                        | Smaller websites, scripts, coursework, and experiments that don't need their own spotlight | Various          |
+| Project | What I was exploring |
+| --- | --- |
+| [FileDownloader](https://github.com/TarunB-Git/FileDownloader) | Scraping, batch downloads, file renaming, and Tkinter |
+| AWS Lambda Image Pipeline | S3-triggered image processing and CloudWatch scaling |
+| Twitch Analytics Chatbot | Constrained LLM planning, DuckDB, schema validation, and dual-model comparison |
+| Android experiments | Kotlin, ViewModels, and Android UI development |
+| AlphaRoyale | Early experiments toward an agent that can understand and play Clash Royale |
+| Miscellaneous | Old websites, scripts, coursework, and assorted experiments |
 
-## Stats
+<!-- 
+ ## Stats
 
-<p align="center">
+ <p align="center">
   <img src="./profile/stats.svg" height="180" alt="GitHub stats">
-  <img src="./profile/languages.svg" height="180" alt="Most used languages">
-</p>
-
+  <img src="./profile/languages.svg" height="180" alt="Most used languages"> </p>
+ -->
 ## Elsewhere
 
 [LinkedIn](https://linkedin.com/in/tarun-boddeda) · [Portfolio](https://tarunb.pythonanywhere.com/)
