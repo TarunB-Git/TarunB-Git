@@ -6,7 +6,6 @@ I'm currently a **Linux Kernel Summer Mentee with the Linux Foundation** and a *
 
 I usually work in Python, with occasional detours into C, Kotlin, JavaScript and whatever else the project needs.
 
-
 ## What I'm doing right now
 
 * Learning the Linux kernel development workflow through the Linux Foundation mentorship program
@@ -72,10 +71,31 @@ Smaller projects, experiments, old ideas, and things I built to figure something
 | AlphaRoyale                                                          | Exploring whether an agent can learn to interact with and play Clash Royale                | Early experiment |
 | Miscellaneous                                                        | Smaller websites, scripts, coursework, and experiments that don't need their own spotlight | Various          |
 
+## Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub stats">
+  <img src="./profile/languages.svg" height="180" alt="Most used languages">
+</p>
+
 ## Elsewhere
 
 [LinkedIn](https://linkedin.com/in/tarun-boddeda) · [Portfolio](https://tarunb.pythonanywhere.com/)
 
 If something here looks interesting, feel free to reach out.
 
----
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="./profile/github-snake.svg"
+  />
+</picture>
