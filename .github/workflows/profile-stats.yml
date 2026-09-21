@@ -1,0 +1,47 @@
+name: Update profile stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=TarunB-Git&show_icons=true&hide_rank=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate language stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=TarunB-Git&layout=compact&langs_count=6
+          path: profile/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub profile stats"
+          git push
