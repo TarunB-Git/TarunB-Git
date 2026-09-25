@@ -1,4 +1,4 @@
-# Hej, I'm Tarun ![Profile Views](https://komarev.com/ghpvc/?username=TarunB-Git&color=blue)
+# Hej, I'm [Tarun](https://tarunb.me) ![Profile Views](https://komarev.com/ghpvc/?username=TarunB-Git&color=blue)
 
 Computer Science graduate working across machine learning, research, Linux, and software development.
 
@@ -26,8 +26,8 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 
 | Project | Direction |
 | --- | --- |
-| **NoveList** | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
-| **Local Expert** | Local document/folder assistant with citations, cross-document links, generated wikis, and spoiler-aware fiction queries. |
+| **[NoveList](https://github.com/TarunB-Git/NoveList)** | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
+| **[Local Expert](https://github.com/TarunB-Git/LocalExpert)** | Local document/folder assistant with citations, cross-document links, generated wikis, and spoiler-aware fiction queries. |
 | **SuperCal** | Private local calendar/planner controlled through natural language and voice. |
 | **JobFlow** | Job reranking, resume/cover-letter tailoring, anonymization, and application workflow tools. |
 
@@ -40,9 +40,9 @@ Smaller projects, old ideas, and things I built to figure something out.
 | [FileDownloader](https://github.com/TarunB-Git/FileDownloader) | Scraping, batch downloads, file renaming, and Tkinter |
 | AWS Lambda Image Pipeline | S3-triggered image processing and CloudWatch scaling |
 | Twitch Analytics Chatbot | Constrained LLM planning, DuckDB, schema validation, and dual-model comparison |
-| Android experiments | Kotlin, ViewModels, and Android UI development |
+| [Android experiments](https://github.com/TarunB-Git/AndroidAppJan) | Kotlin, ViewModels, and Android UI development |
 | AlphaRoyale | Early experiments toward an agent that can understand and play Clash Royale |
-| Miscellaneous | Old websites, scripts, coursework, and assorted experiments |
+| [Miscellaneous](https://github.com/TarunB-Git/Miscellaneous) | Old websites, scripts, coursework, and assorted experiments |
 
 <!-- 
  ## Stats
@@ -53,7 +53,7 @@ Smaller projects, old ideas, and things I built to figure something out.
  -->
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/tarun-boddeda) · [Portfolio](https://tarunb.pythonanywhere.com/)
+[LinkedIn](https://linkedin.com/in/tarun-boddeda) · [Portfolio](https://tarunb.me)
 
 If something here looks interesting, feel free to reach out.
 
