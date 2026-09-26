@@ -26,14 +26,15 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 
 | Project | Direction |
 | --- | --- |
-| **[NoveList](https://github.com/TarunB-Git/NoveList)** | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
-| **[Local Expert](https://github.com/TarunB-Git/LocalExpert)** | Local document/folder assistant with citations, cross-document links, generated wikis, and spoiler-aware fiction queries. |
+| [NoveList](https://github.com/TarunB-Git/NoveList) | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
+| [Local Expert](https://github.com/TarunB-Git/LocalExpert) | Local document/folder assistant with citations, cross-document links, generated wikis, and spoiler-aware fiction queries. |
 | **SuperCal** | Private local calendar/planner controlled through natural language and voice. |
 | **JobFlow** | Job reranking, resume/cover-letter tailoring, anonymization, and application workflow tools. |
 
 ## Lab
 
-Smaller projects, old ideas, and things I built to figure something out.
+<details><summary>Smaller projects, old ideas, and things I built to figure something out.</summary> (Oxford comma ftw.)
+</details>
 
 | Project | What I was exploring |
 | --- | --- |
