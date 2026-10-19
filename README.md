@@ -2,14 +2,14 @@
 
 Computer Science graduate working across machine learning, research, Linux, and software development.
 
-I'm currently a **Linux Kernel Summer Mentee with the Linux Foundation** and a **research collaborator on an upcoming dataset paper**. My undergraduate research on personalized federated learning for StarCraft II was presented at **IEEE GEM 2026**.
+I'm currently a *Linux Kernel Summer Mentee* with the Linux Foundation and a *research collaborator* on multiple different **AI/Game** related papers. My undergraduate research on personalized federated learning for StarCraft II was presented at **IEEE GEM 2026**.
 
 I usually work in Python, with occasional detours into C, Kotlin, JavaScript and whatever else the project needs.
 
 ## What I'm doing right now
 
 * Learning the Linux kernel development workflow through the Linux Foundation mentorship program
-* Collaborating on a dataset research paper
+* Collaborating on a dataset research paper, and a few other papers
 * Cleaning up old projects and turning the useful ones into proper public repositories
 * Building things when an idea seems interesting enough
 
@@ -18,15 +18,16 @@ I usually work in Python, with occasional detours into C, Kotlin, JavaScript and
 | Project | What it is |
 | --- | --- |
 | [FederatedComparison](https://github.com/TarunB-Git/FederatedComparison) | First-author IEEE GEM 2026 research code for centralized and federated StarCraft II action prediction using GRU, LSTM, and Transformer models. |
+| [Notes that learn](https://github.com/TarunB-Git/notes-that-learn) | On-device classification that learns from your labels and classifys your notes in a familiar interface. [Check it out!](https://notechat.tarunb.me) |
+| [NoveList](https://github.com/TarunB-Git/NoveList) | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
+| [Supplier Cockpit](https://github.com/TarunB-Git/Supplier-cockpit) | One-day Industrial AI hackathon prototype connecting supplier risk with financial, geopolitical, dependency, and contract signals. [Take a peek!](https://supplier-cockpit.vercel.app) |
 | [CoachAI](https://github.com/TarunB-Git/coachai-backend) | MediaPipe/OpenCV pose comparison with real-time feedback, analytics, and rendered comparisons. |
-| [Note Classification](https://github.com/TarunB-Git/note-processing) | TF-IDF + calibrated linear SVM for classifying notes as questions, tasks, or deadlines. |
-| [Supplier Cockpit](https://github.com/TarunB-Git/Supplier-cockpit) | One-day Industrial AI hackathon prototype connecting supplier risk with financial, geopolitical, dependency, and contract signals. |
+
 
 ## Currently building
 
 | Project | Direction |
 | --- | --- |
-| [NoveList](https://github.com/TarunB-Git/NoveList) | Semantic novel search, recommendations, rankings, personal libraries, and tier lists. |
 | [Local Expert](https://github.com/TarunB-Git/LocalExpert) | Local document/folder assistant with citations, cross-document links, generated wikis, and spoiler-aware fiction queries. |
 | **SuperCal** | Private local calendar/planner controlled through natural language and voice. |
 | **JobFlow** | Job reranking, resume/cover-letter tailoring, anonymization, and application workflow tools. |
